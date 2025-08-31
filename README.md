@@ -18,4 +18,4 @@ Every file on GitHub has a "raw" version accessible through a specific URL. You 
 
 5.  **Use the URL in Your Code:** You can now use this URL in any application to fetch the JSON data, just like you would with a regular API endpoint.
 
-6. *Got inspired by [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/)
+6. Got inspired by [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/)
